@@ -1,5 +1,18 @@
 [🚀 Launch data.ipynb in Binder](https://mybinder.org/v2/gh/KARTHIGA1404/task_data/0aa9f14d4e828aee7e9a289ac7465b4c3ab3058f?filepath=data.ipynb)
 
+<img width="1697" height="366" alt="image" src="https://github.com/user-attachments/assets/dcf55a80-ed08-422c-940a-1a67ff0b9938" />
+# Key Analytical Insights
+Weekly and seasonal patterns are prominent — weekday ridership peaks while weekends show noticeable declines.
+Local Route and Peak Service exhibit higher variability, reflecting commuter-driven travel demand.
+Light Rail and School routes are relatively stable, where ARIMA performed better due to smoother data behavior.
+Outliers linked to holidays or events were removed and interpolated, leading to improved forecast stability.
+The average MAPE across all transport modes is below 10%, indicating strong predictive reliability and consistent model performance.
+# Operational Insights
+Accurate 7-day forecasts enable data-driven decisions in fleet and staff allocation.
+Predicting peak periods helps prevent overcrowding and improve service efficiency.
+Seasonal demand planning ensures optimal utilization of resources across routes.
+The model can be integrated into a transport management dashboard for real-time forecasting updates.
+
 
 # Forecasting Transport Usage using Prophet–ARIMA Hybrid Model
 
